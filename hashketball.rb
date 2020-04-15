@@ -1,10 +1,4 @@
 def game_hash
-  #player_name = {
-    #"Alan Underson" => {
-    #
-  #  }
-  #}
-
 
   nds = {
     :home => {
